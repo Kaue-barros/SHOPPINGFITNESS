@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2? family= Open+Sans:wght@700 & display=swap');
+
+
+
+body {
+    background: linear-gradient(
+        90deg,
+        rgb(0, 185, 247) 0%,
+        rgb(104, 104, 123) 35%,
+        rgb(219, 40, 255) 100%
+      );
+}
+.lg{
+    text-align: center;
+    
+}
+p,h1{
+    text-align: center;
+}
+.livro1{
+    display: flex;
+    justify-content: center;
+}
+.livro2{
+    display: flex;
+    justify-content:center ;
+}
+.livro3{
+    display: flex;
+    justify-content:center ;
+}
+.contato {
+    display: flex;
+    text-underline-position: auto;
+    flex-direction: column;
+    align-items: center;
+}
+.ebook1{
+    display: block;
+    margin: 4px auto;
+}
+.ebook2{
+    display: block;
+    margin: 5px auto;
+
+}
+.ebook3{
+    display: block;
+    margin: 5px auto;
+
+}
